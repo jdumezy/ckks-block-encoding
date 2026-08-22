@@ -1,0 +1,14 @@
+Character Encoding
+Copyright 2026 Jules Dumezy and Elias Suvanto
+
+This product includes modified software derived from Pro7ech's Lattigo
+(https://github.com/Pro7ech/lattigo), itself derived from Lattigo by EPFL and
+Tune Insight SA.
+
+Parts of the functional-bootstrapping conversion are derived from CRT-FHE
+(https://github.com/jaehyungkim0/CRT-FHE). Security-parameter limits are
+derived from https://github.com/jdumezy/sparse-key-estimate.
+
+The Lattigo and CRT-FHE-derived software is used under the Apache License 2.0.
+The license and bundled dependency notices are retained in LICENSE and
+lattigo/LICENCE.

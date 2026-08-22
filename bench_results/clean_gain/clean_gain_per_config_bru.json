@@ -1,0 +1,106 @@
+{
+  "logN": 16,
+  "encoding": "BRU",
+  "clean_floor_bits": 15.05,
+  "per_config": [
+    {
+      "experiment": "crt_lbru_256",
+      "log2t": 0,
+      "plateau_precision": 12.6669,
+      "plateau_std": 0.0001,
+      "clean_floor": 15.05,
+      "clean_gain_bits": 2.3831,
+      "degradation_rate_bits_per_iter": 0.04001,
+      "iterations_saved": 59.6,
+      "note": ""
+    },
+    {
+      "experiment": "native_bru",
+      "log2t": 2,
+      "plateau_precision": 12.6668,
+      "plateau_std": 0.0,
+      "clean_floor": 15.05,
+      "clean_gain_bits": 2.3832,
+      "degradation_rate_bits_per_iter": 0.04001,
+      "iterations_saved": 59.6,
+      "note": ""
+    },
+    {
+      "experiment": "native_bru",
+      "log2t": 4,
+      "plateau_precision": 12.6669,
+      "plateau_std": 0.0001,
+      "clean_floor": 15.05,
+      "clean_gain_bits": 2.3831,
+      "degradation_rate_bits_per_iter": 0.04001,
+      "iterations_saved": 59.6,
+      "note": ""
+    },
+    {
+      "experiment": "native_bru",
+      "log2t": 6,
+      "plateau_precision": 12.6669,
+      "plateau_std": 0.0001,
+      "clean_floor": 15.05,
+      "clean_gain_bits": 2.3831,
+      "degradation_rate_bits_per_iter": 0.04,
+      "iterations_saved": 59.6,
+      "note": ""
+    },
+    {
+      "experiment": "native_bru",
+      "log2t": 8,
+      "plateau_precision": 12.667,
+      "plateau_std": 0.0,
+      "clean_floor": 15.05,
+      "clean_gain_bits": 2.383,
+      "degradation_rate_bits_per_iter": 0.04,
+      "iterations_saved": 59.6,
+      "note": ""
+    },
+    {
+      "experiment": "unary_lut_bru",
+      "log2t": 2,
+      "plateau_precision": 22.6183,
+      "plateau_std": 0.0323,
+      "clean_floor": 15.05,
+      "clean_gain_bits": 0.0,
+      "degradation_rate_bits_per_iter": 0.02683,
+      "iterations_saved": null,
+      "note": "plateau already above clean floor"
+    },
+    {
+      "experiment": "unary_lut_bru",
+      "log2t": 4,
+      "plateau_precision": 22.6335,
+      "plateau_std": 0.0255,
+      "clean_floor": 15.05,
+      "clean_gain_bits": 0.0,
+      "degradation_rate_bits_per_iter": 0.02668,
+      "iterations_saved": null,
+      "note": "plateau already above clean floor"
+    },
+    {
+      "experiment": "unary_lut_bru",
+      "log2t": 6,
+      "plateau_precision": 22.612,
+      "plateau_std": 0.0101,
+      "clean_floor": 15.05,
+      "clean_gain_bits": 0.0,
+      "degradation_rate_bits_per_iter": 0.02529,
+      "iterations_saved": null,
+      "note": "plateau already above clean floor"
+    },
+    {
+      "experiment": "unary_lut_bru",
+      "log2t": 8,
+      "plateau_precision": 22.5589,
+      "plateau_std": 0.0168,
+      "clean_floor": 15.05,
+      "clean_gain_bits": 0.0,
+      "degradation_rate_bits_per_iter": 0.02694,
+      "iterations_saved": null,
+      "note": "plateau already above clean floor"
+    }
+  ]
+}

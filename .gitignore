@@ -1,0 +1,17 @@
+# Generated benchmark and experiment output. The paper results already tracked
+# under this directory remain versioned.
+bench_results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Go
+*.test
+coverage.out
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
